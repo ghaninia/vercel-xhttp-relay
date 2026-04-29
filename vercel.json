@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "vercel-test",
+  "name": "asmin12512512512zsxgqatgqw5151235",
   "rewrites": [
     { "source": "/(.*)", "destination": "/api/index" }
   ],
